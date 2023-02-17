@@ -9,3 +9,4 @@
   - [WireGuard](markdown/wireguard.md)
   - [Services Manager (systemd)](markdown/systemd.md)
   - [Deploy bots](markdown/deploy_tg_bot.md)
+  - Py+Selenium+Chrome(debian)  https://tecadmin.net/setup-selenium-with-python-on-ubuntu-debian/
